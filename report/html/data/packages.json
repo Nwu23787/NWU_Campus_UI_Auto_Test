@@ -1,0 +1,139 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "script.test_login",
+    "children" : [ {
+      "name" : "test_login_success[hello-12345678]",
+      "uid" : "18bc34e80622dad6",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055885606,
+        "stop" : 1738055886566,
+        "duration" : 960
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'hello'", "'12345678'" ]
+    }, {
+      "name" : "test_login_success[DuFly-1234567]",
+      "uid" : "873892c5c25c9709",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055886800,
+        "stop" : 1738055887703,
+        "duration" : 903
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'DuFly'", "'1234567'" ]
+    }, {
+      "name" : "test_login_error[None-12345678-\\u8d26\\u53f7\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+      "uid" : "d386a604f8f10dfa",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055888000,
+        "stop" : 1738055888926,
+        "duration" : 926
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "None", "'账号不能为空'", "'12345678'" ]
+    }, {
+      "name" : "test_login_error[hello-None-\\u5bc6\\u7801\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+      "uid" : "e3b0b97998933dea",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055888946,
+        "stop" : 1738055889963,
+        "duration" : 1017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'hello'", "'密码不能为空'", "None" ]
+    }, {
+      "name" : "test_login_error[hello-123456789-\\u5bc6\\u7801\\u9519\\u8bef]",
+      "uid" : "705b8a040641cda0",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055889985,
+        "stop" : 1738055890987,
+        "duration" : 1002
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'hello'", "'密码错误'", "'123456789'" ]
+    }, {
+      "name" : "test_login_error[hello-1234567-\\u5bc6\\u7801\\u9519\\u8bef]",
+      "uid" : "b987c539289b9a73",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055891007,
+        "stop" : 1738055892039,
+        "duration" : 1032
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'hello'", "'密码错误'", "'1234567'" ]
+    }, {
+      "name" : "test_login_error[hello-123456-\\u5bc6\\u7801\\u957f\\u5ea6\\u4e0d\\u80fd\\u5c0f\\u4e8e7\\u4e2a\\u5b57\\u7b26]",
+      "uid" : "1240bf96441df62f",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055892059,
+        "stop" : 1738055893074,
+        "duration" : 1015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'hello'", "'密码长度不能小于7个字符'", "'123456'" ]
+    }, {
+      "name" : "test_login_error[he-12345678-\\u8d26\\u53f7\\u5728 3 \\u81f3 25\\u4e2a\\u5b57\\u7b26\\u4e4b\\u95f4]",
+      "uid" : "7b2118809e83fbcf",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055893099,
+        "stop" : 1738055894001,
+        "duration" : 902
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'he'", "'账号在 3 至 25个字符之间'", "'12345678'" ]
+    }, {
+      "name" : "test_login_error[helloo-12345678-\\u8d26\\u53f7\\u9519\\u8bef]",
+      "uid" : "d5c0dbf986553351",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055894019,
+        "stop" : 1738055894996,
+        "duration" : 977
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'helloo'", "'账号错误'", "'12345678'" ]
+    }, {
+      "name" : "test_login_error[hell-12345678-\\u8d26\\u53f7\\u9519\\u8bef]",
+      "uid" : "65d61e54c8c1c6c",
+      "parentUid" : "09fd0b55a13961e1d704cb24ddc764d8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1738055895016,
+        "stop" : 1738055896001,
+        "duration" : 985
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "'hell'", "'账号错误'", "'12345678'" ]
+    } ],
+    "uid" : "script.test_login"
+  } ]
+}

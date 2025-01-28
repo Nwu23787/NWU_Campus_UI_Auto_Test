@@ -1,0 +1,101 @@
+[ {
+  "uid" : "1240bf96441df62f",
+  "name" : "test_login_error[hello-123456-\\u5bc6\\u7801\\u957f\\u5ea6\\u4e0d\\u80fd\\u5c0f\\u4e8e7\\u4e2a\\u5b57\\u7b26]",
+  "time" : {
+    "start" : 1738055892059,
+    "stop" : 1738055893074,
+    "duration" : 1015
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d386a604f8f10dfa",
+  "name" : "test_login_error[None-12345678-\\u8d26\\u53f7\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+  "time" : {
+    "start" : 1738055888000,
+    "stop" : 1738055888926,
+    "duration" : 926
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7b2118809e83fbcf",
+  "name" : "test_login_error[he-12345678-\\u8d26\\u53f7\\u5728 3 \\u81f3 25\\u4e2a\\u5b57\\u7b26\\u4e4b\\u95f4]",
+  "time" : {
+    "start" : 1738055893099,
+    "stop" : 1738055894001,
+    "duration" : 902
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "65d61e54c8c1c6c",
+  "name" : "test_login_error[hell-12345678-\\u8d26\\u53f7\\u9519\\u8bef]",
+  "time" : {
+    "start" : 1738055895016,
+    "stop" : 1738055896001,
+    "duration" : 985
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3b0b97998933dea",
+  "name" : "test_login_error[hello-None-\\u5bc6\\u7801\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+  "time" : {
+    "start" : 1738055888946,
+    "stop" : 1738055889963,
+    "duration" : 1017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b987c539289b9a73",
+  "name" : "test_login_error[hello-1234567-\\u5bc6\\u7801\\u9519\\u8bef]",
+  "time" : {
+    "start" : 1738055891007,
+    "stop" : 1738055892039,
+    "duration" : 1032
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5c0dbf986553351",
+  "name" : "test_login_error[helloo-12345678-\\u8d26\\u53f7\\u9519\\u8bef]",
+  "time" : {
+    "start" : 1738055894019,
+    "stop" : 1738055894996,
+    "duration" : 977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "873892c5c25c9709",
+  "name" : "test_login_success[DuFly-1234567]",
+  "time" : {
+    "start" : 1738055886800,
+    "stop" : 1738055887703,
+    "duration" : 903
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18bc34e80622dad6",
+  "name" : "test_login_success[hello-12345678]",
+  "time" : {
+    "start" : 1738055885606,
+    "stop" : 1738055886566,
+    "duration" : 960
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "705b8a040641cda0",
+  "name" : "test_login_error[hello-123456789-\\u5bc6\\u7801\\u9519\\u8bef]",
+  "time" : {
+    "start" : 1738055889985,
+    "stop" : 1738055890987,
+    "duration" : 1002
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
