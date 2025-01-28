@@ -1,0 +1,42 @@
+{
+  "case1": {
+    "username": null,
+    "password": "12345678",
+    "expectText": "账号不能为空"
+  },
+  "case2": {
+    "username": "hello",
+    "password": null,
+    "expectText": "密码不能为空"
+  },
+  "case3": {
+    "username": "hello",
+    "password": "123456789",
+    "expectText": "密码错误"
+  },
+  "case4": {
+    "username": "hello",
+    "password": "1234567",
+    "expectText": "密码错误"
+  },
+  "case5": {
+    "username": "hello",
+    "password": "123456",
+    "expectText": "密码长度不能小于7个字符"
+  },
+  "case6": {
+    "username": "he",
+    "password": "12345678",
+    "expectText": "账号在 3 至 25个字符之间"
+  },
+  "case7": {
+    "username": "helloo",
+    "password": "12345678",
+    "expectText": "账号错误"
+  },
+  "case8": {
+    "username": "hell",
+    "password": "12345678",
+    "expectText": "账号错误"
+  }
+}

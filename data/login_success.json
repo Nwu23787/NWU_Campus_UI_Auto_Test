@@ -1,0 +1,10 @@
+{
+  "case1": {
+    "username": "hello",
+    "password": "12345678"
+  },
+  "case2": {
+    "username": "DuFly",
+    "password": "1234567"
+  }
+}
