@@ -1,1 +1,0 @@
-{"name": "test_login_success[admin-1234567]", "status": "passed", "parameters": [{"name": "account", "value": "'admin'"}, {"name": "password", "value": "'1234567'"}], "start": 1738051002915, "stop": 1738051015360, "uuid": "daac866b-4c16-4ac8-954c-fa20a34c5c49", "testCaseId": "6d298673b0bb37983dac9b8e39b0457f", "fullName": "script.test_login.TestLogin#test_login_success"}

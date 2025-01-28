@@ -2,7 +2,6 @@ import pytest
 
 from base.base_page import BasePage
 from config import BASE_URL, LOGIN_URL
-from page.index_page import IndexPage
 from page.login_page import LoginPage
 from utils import DriverUtils, is_el_exist_by_text, get_json_data
 from selenium.webdriver import ActionChains

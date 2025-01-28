@@ -1,3 +1,0 @@
-ERROR    root:base_page.py:25 未找到('css selector', '.clearfix li:nth-child(2) .a-button')元素
-ERROR    root:base_page.py:25 未找到('css selector', '.author')元素
-ERROR    root:base_page.py:25 未找到('css selector', '#el-popper-container-180 .el-popper:nth-child(2) ul>li:nth-child(4)')元素

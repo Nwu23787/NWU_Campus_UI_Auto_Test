@@ -20,20 +20,20 @@ class IndexPage(BasePage):
         # 登录按钮
         self.login_btn = ".login-container button"
         # 退出登录按钮
-        self.logout_btn = "#el-popper-container-180 .el-popper:nth-child(2) ul>li:nth-child(4)"
+        # self.logout_btn = "#el-popper-container-180 .el-popper:nth-child(2) ul>li:nth-child(4)"
         # 右上角用户信息
         self.userinfo = ".author"
-    def login(self, account, password):
-        # 点击登录按钮
-        self.find_ele(self.login_popup_btn).click()
-        if account is not None:
-            # 输入账号
-            self.input_text(self.find_ele(self.account_input), account)
-        if password is not None:
-            # 输入密码
-            self.input_text(self.find_ele(self.password_input), password)
-        # 点击登录
-        self.find_ele(self.login_btn).click()
+    # def login(self, account, password):
+    #     # 点击登录按钮
+    #     self.find_ele(self.login_popup_btn).click()
+    #     if account is not None:
+    #         # 输入账号
+    #         self.input_text(self.find_ele(self.account_input), account)
+    #     if password is not None:
+    #         # 输入密码
+    #         self.input_text(self.find_ele(self.password_input), password)
+    #     # 点击登录
+    #     self.find_ele(self.login_btn).click()
 
     def logout(self):
         # 若当前在登录状态，则退出登录
@@ -46,4 +46,3 @@ class IndexPage(BasePage):
         except Exception as e:
             # 处于非登录状态，不操作
             print(e)
-            raise e
