@@ -1,0 +1,3 @@
+ERROR    root:base_page.py:25 未找到('css selector', ".input[placeholder='标题']")元素
+ERROR    root:base_page.py:36 input ‘重大通知’ failed.
+ERROR    root:base_page.py:36 input ‘666’ failed.

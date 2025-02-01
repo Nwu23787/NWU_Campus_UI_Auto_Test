@@ -1,0 +1,7 @@
+INFO     root:base_page.py:34 input hello success.
+INFO     root:base_page.py:34 input 12345678 success.
+INFO     root:base_page.py:34 input 重大通知 success.
+INFO     root:base_page.py:59 switch to 0 iframe success.
+INFO     root:base_page.py:34 input 666 success.
+INFO     root:utils.py:41 None
+ERROR    root:utils.py:47 未找到文本‘提交成功’对应的元素

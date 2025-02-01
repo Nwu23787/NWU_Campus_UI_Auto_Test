@@ -1,0 +1,5 @@
+ERROR    root:base_page.py:25 未找到('css selector', "input[placeholder='账号']")元素
+ERROR    root:base_page.py:36 input ‘hello’ failed.
+ERROR    root:base_page.py:25 未找到('css selector', "input[placeholder='密码']")元素
+ERROR    root:base_page.py:36 input ‘12345678’ failed.
+ERROR    root:base_page.py:25 未找到('css selector', '.login-container button')元素

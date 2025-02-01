@@ -1,0 +1,20 @@
+{
+  "case1": {
+    "tag": null,
+    "title": "测试通知",
+    "text": "ceshiceshi",
+    "expectText": "标签不能为空"
+  },
+  "case2": {
+    "tag": "通知公告",
+    "title": null,
+    "text": "ceshiceshi",
+    "expectText": "标题不能为空"
+  },
+  "case3": {
+    "tag": "通知公告",
+    "title": "测试通知",
+    "text": null,
+    "expectText": "话题内容不能为空"
+  }
+}

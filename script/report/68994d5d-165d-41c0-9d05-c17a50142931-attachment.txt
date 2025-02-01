@@ -1,0 +1,1 @@
+ERROR    root:base_page.py:36 input ‘666’ failed.

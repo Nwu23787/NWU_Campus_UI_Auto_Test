@@ -1,0 +1,5 @@
+INFO     root:base_page.py:34 input hello success.
+INFO     root:base_page.py:34 input 12345678 success.
+INFO     root:base_page.py:34 input 重大通知 success.
+ERROR    root:base_page.py:25 未找到('css selector', 0)元素
+ERROR    root:base_page.py:36 input ‘666’ failed.

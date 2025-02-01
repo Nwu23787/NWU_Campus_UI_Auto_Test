@@ -12,6 +12,8 @@ INDEX_URL = BASE_URL + "/index"
 ADMIN_URL = BASE_URL + "/register"
 # 登录页URL
 LOGIN_URL = BASE_URL + "/login"
+# 发表话题页
+TOPIC_URL = BASE_URL + "/addTopic"
 
 
 def set_log_config():

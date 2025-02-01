@@ -1,0 +1,5 @@
+INFO     root:base_page.py:34 input hello success.
+INFO     root:base_page.py:34 input 12345678 success.
+INFO     root:base_page.py:34 input 重大通知 success.
+INFO     root:base_page.py:62 switch to <selenium.webdriver.remote.webelement.WebElement (session="9f92941ec826e2aa33dba0861ef6b584", element="f.8BE879F0FCD54F6C256A57333CE71448.d.248F3B596C8044630549ACDAA077390F.e.37")> iframe failed!
+ERROR    root:base_page.py:36 input ‘666’ failed.

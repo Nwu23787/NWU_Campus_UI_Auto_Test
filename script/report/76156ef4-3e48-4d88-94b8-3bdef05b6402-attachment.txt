@@ -1,0 +1,6 @@
+INFO     root:base_page.py:34 input hello success.
+INFO     root:base_page.py:34 input 12345678 success.
+INFO     root:base_page.py:34 input 测试通知 success.
+INFO     root:base_page.py:59 switch to 0 iframe success.
+INFO     root:base_page.py:34 input 测试测试测试测试测试测试 success.
+ERROR    root:utils.py:46 未找到文本‘提交成功，3秒后自动跳转到首页’对应的元素

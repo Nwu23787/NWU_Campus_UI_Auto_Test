@@ -38,7 +38,7 @@ def get_el_text(driver,css_selector):
 # 根据文本判断当前页面是否存在对应的元素对象
 def is_el_exist_by_text(driver,text):
     try:
-        flag = WebDriverWait(driver,10,1).until(lambda x:x.find_element_by_xpath(f"//*[text()='{text}']"))
+        flag = WebDriverWait(driver,20,1).until(lambda x:x.find_element_by_xpath(f"//*[text()='{text}']"))
     except Exception as e:
         flag = False
         # 截图

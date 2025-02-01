@@ -15,7 +15,7 @@ class BasePage:
     def find_ele(self, location):
         try:
             # 个人习惯，默认使用CSS查找元素
-            if not isinstance(location,(tuple,list)):
+            if not isinstance(location, (tuple, list)):
                 location = [location]
             if len(location) == 1:
                 location = (By.CSS_SELECTOR, location[0])
@@ -52,8 +52,11 @@ class BasePage:
     def switch_frame(self, ele):
         # 切换指定iframe标签
         try:
-            self.driver.switch_to.frame(ele)
-            logging.info(f"switch to {ele} iframe success.")
+            if ele is None:
+                self.driver.switch_to_default_content()
+            else:
+                self.driver.switch_to.frame(ele)
+                logging.info(f"switch to {ele} iframe success.")
         except Exception as e:
             # 打印日志
             logging.info(f"switch to {ele} iframe failed!")
