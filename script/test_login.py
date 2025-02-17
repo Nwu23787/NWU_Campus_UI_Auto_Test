@@ -26,12 +26,13 @@ def init_login_error():
     yield
     DriverUtils.get_driver().refresh()
 
-
+@pytest.mark.run(order=1)
 class TestLogin:
     @pytest.mark.parametrize('account,password', get_json_data("login_success"))
     def test_login_success(self, account, password, init_login, init_login_success):
         LoginPage().login(account, password)
         assert init_login.find_element_by_css_selector(".author")
+
 
     @pytest.mark.parametrize('account,password,expectText', get_json_data("login_error"))
     def test_login_error(self, account, password, expectText, init_login,init_login_error):

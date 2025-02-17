@@ -1,0 +1,44 @@
+{
+  "case1": {
+    "title": "test question",
+    "tag": "跳蚤市场",
+    "score": 0,
+    "text": "test content",
+    "expectText": "提交成功，3秒后自动跳转到问答页"
+  },
+  "case2": {
+    "title": "test question",
+    "tag": "跳蚤市场",
+    "score": 1,
+    "text": "test content",
+    "expectText": "提交成功，3秒后自动跳转到问答页"
+  },
+  "case3": {
+    "title": null,
+    "tag": "跳蚤市场",
+    "score": 0,
+    "text": "test content",
+    "expectText": "标题不能为空"
+  },
+  "case4": {
+    "title": "test question",
+    "tag": null,
+    "score": 0,
+    "text": "test content",
+    "expectText": "请选择标签"
+  },
+  "case5": {
+    "title": "test question",
+    "tag": "跳蚤市场",
+    "score": 0,
+    "text": null,
+    "expectText": "问题内容不能为空"
+  },
+  "case6": {
+    "title": "test question",
+    "tag": "跳蚤市场",
+    "score": 999999,
+    "text": "test content",
+    "expectText": "不能大于账户积分"
+  }
+}

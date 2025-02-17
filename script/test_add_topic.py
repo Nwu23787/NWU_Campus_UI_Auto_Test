@@ -15,12 +15,12 @@ def init_login():
     LoginPage().login("hello", "12345678")
     driver.get(TOPIC_URL)
     yield driver
+    DriverUtils.quit_driver()
 
 
 @pytest.fixture()
 def refresh_page():
     DriverUtils.get_driver().get(TOPIC_URL)
-
 
 class TestTopic:
     @pytest.mark.parametrize('tag, title, text', get_json_data("add_topic_success"))

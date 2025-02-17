@@ -23,6 +23,11 @@ class IndexPage(BasePage):
         # self.logout_btn = "#el-popper-container-180 .el-popper:nth-child(2) ul>li:nth-child(4)"
         # 右上角用户信息
         self.userinfo = ".author"
+        # 搜索框
+        self.search_input = ".head-search input"
+        # 搜索按钮
+        self.search_btn = ".head-search .icon-container"
+
     # def login(self, account, password):
     #     # 点击登录按钮
     #     self.find_ele(self.login_popup_btn).click()
@@ -46,3 +51,9 @@ class IndexPage(BasePage):
         except Exception as e:
             # 处于非登录状态，不操作
             print(e)
+
+    def search(self, keywords):
+        # 输入关键字
+        self.input_text(self.find_ele(self.search_input), keywords)
+        # 点击搜索
+        self.find_ele(self.search_btn).click()

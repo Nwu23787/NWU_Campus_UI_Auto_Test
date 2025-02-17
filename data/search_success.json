@@ -1,0 +1,14 @@
+{
+  "case1": {
+    "keywords": "西北大学",
+    "result": "西北大学"
+  },
+  "case2": {
+    "keywords": "#西北大学@",
+    "result": "西北大学"
+  },
+  "case3": {
+    "keywords": "CESHI",
+    "result": "ceshi"
+  }
+}

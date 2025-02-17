@@ -14,7 +14,8 @@ ADMIN_URL = BASE_URL + "/register"
 LOGIN_URL = BASE_URL + "/login"
 # 发表话题页
 TOPIC_URL = BASE_URL + "/addTopic"
-
+# 提问题页
+POST_QUESTION_URL = BASE_URL + "/addQuestion"
 
 def set_log_config():
     # 创建日志器
