@@ -2,134 +2,355 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "name" : "behaviors",
   "children" : [ {
-    "name" : "test_login_success[hello-12345678]",
-    "uid" : "18bc34e80622dad6",
+    "name" : "test_begin",
+    "uid" : "536e783bdcc79a5d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055885606,
-      "stop" : 1738055886566,
-      "duration" : 960
+      "start" : 1745488548837,
+      "stop" : 1745488548837,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_login_success[hello-12345678]",
+    "uid" : "4703ec15e1523a3b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488550492,
+      "stop" : 1745488551468,
+      "duration" : 976
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'hello'", "'12345678'" ]
   }, {
     "name" : "test_login_success[DuFly-1234567]",
-    "uid" : "873892c5c25c9709",
+    "uid" : "9fe746a2e8f98d9d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055886800,
-      "stop" : 1738055887703,
-      "duration" : 903
+      "start" : 1745488551693,
+      "stop" : 1745488552605,
+      "duration" : 912
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'DuFly'", "'1234567'" ]
   }, {
     "name" : "test_login_error[None-12345678-\\u8d26\\u53f7\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
-    "uid" : "d386a604f8f10dfa",
+    "uid" : "f3f56ec835643ed0",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055888000,
-      "stop" : 1738055888926,
-      "duration" : 926
+      "start" : 1745488553034,
+      "stop" : 1745488553930,
+      "duration" : 896
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "None", "'账号不能为空'", "'12345678'" ]
   }, {
     "name" : "test_login_error[hello-None-\\u5bc6\\u7801\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
-    "uid" : "e3b0b97998933dea",
+    "uid" : "bf23176ce95fc81e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055888946,
-      "stop" : 1738055889963,
-      "duration" : 1017
+      "start" : 1745488553955,
+      "stop" : 1745488554921,
+      "duration" : 966
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'hello'", "'密码不能为空'", "None" ]
   }, {
     "name" : "test_login_error[hello-123456789-\\u5bc6\\u7801\\u9519\\u8bef]",
-    "uid" : "705b8a040641cda0",
+    "uid" : "74edaf34c78d7db8",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055889985,
-      "stop" : 1738055890987,
-      "duration" : 1002
+      "start" : 1745488554944,
+      "stop" : 1745488555959,
+      "duration" : 1015
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'hello'", "'密码错误'", "'123456789'" ]
   }, {
     "name" : "test_login_error[hello-1234567-\\u5bc6\\u7801\\u9519\\u8bef]",
-    "uid" : "b987c539289b9a73",
+    "uid" : "fb8701cafca52d2b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055891007,
-      "stop" : 1738055892039,
-      "duration" : 1032
+      "start" : 1745488555987,
+      "stop" : 1745488557056,
+      "duration" : 1069
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'hello'", "'密码错误'", "'1234567'" ]
   }, {
     "name" : "test_login_error[hello-123456-\\u5bc6\\u7801\\u957f\\u5ea6\\u4e0d\\u80fd\\u5c0f\\u4e8e7\\u4e2a\\u5b57\\u7b26]",
-    "uid" : "1240bf96441df62f",
+    "uid" : "3ebf8cb541b1aaa2",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055892059,
-      "stop" : 1738055893074,
-      "duration" : 1015
+      "start" : 1745488557081,
+      "stop" : 1745488558072,
+      "duration" : 991
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'hello'", "'密码长度不能小于7个字符'", "'123456'" ]
   }, {
     "name" : "test_login_error[he-12345678-\\u8d26\\u53f7\\u5728 3 \\u81f3 25\\u4e2a\\u5b57\\u7b26\\u4e4b\\u95f4]",
-    "uid" : "7b2118809e83fbcf",
+    "uid" : "52d685c7152c8a5e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055893099,
-      "stop" : 1738055894001,
-      "duration" : 902
+      "start" : 1745488558095,
+      "stop" : 1745488558929,
+      "duration" : 834
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'he'", "'账号在 3 至 25个字符之间'", "'12345678'" ]
   }, {
     "name" : "test_login_error[helloo-12345678-\\u8d26\\u53f7\\u9519\\u8bef]",
-    "uid" : "d5c0dbf986553351",
+    "uid" : "3a94fa8cad24bdd1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055894019,
-      "stop" : 1738055894996,
-      "duration" : 977
+      "start" : 1745488558953,
+      "stop" : 1745488559927,
+      "duration" : 974
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'helloo'", "'账号错误'", "'12345678'" ]
   }, {
     "name" : "test_login_error[hell-12345678-\\u8d26\\u53f7\\u9519\\u8bef]",
-    "uid" : "65d61e54c8c1c6c",
+    "uid" : "a0ecda5404b9a5bf",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1738055895016,
-      "stop" : 1738055896001,
-      "duration" : 985
+      "start" : 1745488559953,
+      "stop" : 1745488560976,
+      "duration" : 1023
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "'hell'", "'账号错误'", "'12345678'" ]
+  }, {
+    "name" : "test_add_topic_success[\\u901a\\u77e5\\u516c\\u544a-ceshi-ceshiceshi]",
+    "uid" : "492530c0ba848d79",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488562203,
+      "stop" : 1745488563028,
+      "duration" : 825
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'通知公告'", "'ceshiceshi'", "'ceshi'" ]
+  }, {
+    "name" : "test_add_topic_error[None-\\u6d4b\\u8bd5\\u901a\\u77e5-ceshiceshi-\\u6807\\u7b7e\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+    "uid" : "ea04437723c4a94b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488563122,
+      "stop" : 1745488563837,
+      "duration" : 715
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'标签不能为空'", "None", "'ceshiceshi'", "'测试通知'" ]
+  }, {
+    "name" : "test_add_topic_error[\\u901a\\u77e5\\u516c\\u544a-None-ceshiceshi-\\u6807\\u9898\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+    "uid" : "2641bdf8da9deaf3",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488563925,
+      "stop" : 1745488564545,
+      "duration" : 620
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'标题不能为空'", "'通知公告'", "'ceshiceshi'", "None" ]
+  }, {
+    "name" : "test_add_topic_error[\\u901a\\u77e5\\u516c\\u544a-\\u6d4b\\u8bd5\\u901a\\u77e5-None-\\u8bdd\\u9898\\u5185\\u5bb9\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+    "uid" : "74e0b7400767034",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488564667,
+      "stop" : 1745488565451,
+      "duration" : 784
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'话题内容不能为空'", "'通知公告'", "None", "'测试通知'" ]
+  }, {
+    "name" : "test_add_question_success[test question-\\u8df3\\u86a4\\u5e02\\u573a-0-test content-\\u63d0\\u4ea4\\u6210\\u529f\\uff0c3\\u79d2\\u540e\\u81ea\\u52a8\\u8df3\\u8f6c\\u5230\\u95ee\\u7b54\\u9875]",
+    "uid" : "9ebede0a043280f1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488566541,
+      "stop" : 1745488567483,
+      "duration" : 942
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'提交成功，3秒后自动跳转到问答页'", "0", "'跳蚤市场'", "'test content'", "'test question'" ]
+  }, {
+    "name" : "test_add_question_success[test question-\\u8df3\\u86a4\\u5e02\\u573a-1-test content-\\u63d0\\u4ea4\\u6210\\u529f\\uff0c3\\u79d2\\u540e\\u81ea\\u52a8\\u8df3\\u8f6c\\u5230\\u95ee\\u7b54\\u9875]",
+    "uid" : "8937745a1586b23f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488567573,
+      "stop" : 1745488568429,
+      "duration" : 856
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'提交成功，3秒后自动跳转到问答页'", "1", "'跳蚤市场'", "'test content'", "'test question'" ]
+  }, {
+    "name" : "test_add_question_success[None-\\u8df3\\u86a4\\u5e02\\u573a-0-test content-\\u6807\\u9898\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+    "uid" : "3647712eeca1b152",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488568541,
+      "stop" : 1745488569491,
+      "duration" : 950
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'标题不能为空'", "0", "'跳蚤市场'", "'test content'", "None" ]
+  }, {
+    "name" : "test_add_question_success[test question-None-0-test content-\\u8bf7\\u9009\\u62e9\\u6807\\u7b7e]",
+    "uid" : "b7c515cb8bca5e87",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488569585,
+      "stop" : 1745488570194,
+      "duration" : 609
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'请选择标签'", "0", "None", "'test content'", "'test question'" ]
+  }, {
+    "name" : "test_add_question_success[test question-\\u8df3\\u86a4\\u5e02\\u573a-0-None-\\u95ee\\u9898\\u5185\\u5bb9\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+    "uid" : "fbe7bdeba0a7d05c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488570285,
+      "stop" : 1745488571203,
+      "duration" : 918
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'问题内容不能为空'", "0", "'跳蚤市场'", "None", "'test question'" ]
+  }, {
+    "name" : "test_add_question_success[test question-\\u8df3\\u86a4\\u5e02\\u573a-999999-test content-\\u4e0d\\u80fd\\u5927\\u4e8e\\u8d26\\u6237\\u79ef\\u5206]",
+    "uid" : "6b92d44b45809e76",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488571335,
+      "stop" : 1745488572288,
+      "duration" : 953
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'不能大于账户积分'", "999999", "'跳蚤市场'", "'test content'", "'test question'" ]
+  }, {
+    "name" : "test_search_success[\\u897f\\u5317\\u5927\\u5b66-\\u897f\\u5317\\u5927\\u5b66]",
+    "uid" : "c687a94cd4220d15",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488572394,
+      "stop" : 1745488573229,
+      "duration" : 835
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'西北大学'", "'西北大学'" ]
+  }, {
+    "name" : "test_search_success[#\\u897f\\u5317\\u5927\\u5b66@-\\u897f\\u5317\\u5927\\u5b66]",
+    "uid" : "c7e1e3841515022b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488573412,
+      "stop" : 1745488574245,
+      "duration" : 833
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'#西北大学@'", "'西北大学'" ]
+  }, {
+    "name" : "test_search_success[CESHI-ceshi]",
+    "uid" : "a1212b011cfb3c00",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488574389,
+      "stop" : 1745488575251,
+      "duration" : 862
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "'CESHI'", "'ceshi'" ]
+  }, {
+    "name" : "test_search_null",
+    "uid" : "d795a4167483b5af",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488575398,
+      "stop" : 1745488576254,
+      "duration" : 856
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_search_no_result",
+    "uid" : "4a67e9699d0b032c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488576333,
+      "stop" : 1745488577268,
+      "duration" : 935
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_end",
+    "uid" : "916d55c6b0dd6d65",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1745488577272,
+      "stop" : 1745488579511,
+      "duration" : 2239
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
   } ]
 }

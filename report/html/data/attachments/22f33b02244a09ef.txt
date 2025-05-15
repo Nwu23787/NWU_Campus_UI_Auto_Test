@@ -1,0 +1,2 @@
+[32mINFO    [0m root:base_page.py:34 input hello success.
+[32mINFO    [0m root:base_page.py:34 input 123456 success.

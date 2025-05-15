@@ -1,0 +1,2 @@
+[32mINFO    [0m root:base_page.py:34 input test question success.
+[32mINFO    [0m root:base_page.py:34 input 0 success.

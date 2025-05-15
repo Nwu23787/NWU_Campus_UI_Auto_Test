@@ -1,0 +1,4 @@
+INFO     root:base_page.py:34 input hello success.
+INFO     root:base_page.py:34 input 12345678 success.
+INFO     root:base_page.py:34 input 跳蚤市场 success.
+ERROR    root:base_page.py:25 未找到['xpath', "//span[text()='test question']"]元素

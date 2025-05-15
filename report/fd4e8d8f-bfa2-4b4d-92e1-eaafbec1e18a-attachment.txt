@@ -1,0 +1,6 @@
+[32mINFO    [0m root:base_page.py:34 input hello success.
+[32mINFO    [0m root:base_page.py:34 input 12345678 success.
+[32mINFO    [0m root:base_page.py:34 input test question success.
+[32mINFO    [0m root:base_page.py:34 input 0 success.
+[32mINFO    [0m root:base_page.py:59 switch to 0 iframe success.
+[32mINFO    [0m root:base_page.py:34 input test content success.

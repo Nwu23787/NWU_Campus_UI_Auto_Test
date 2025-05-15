@@ -1,0 +1,4 @@
+INFO     root:base_page.py:34 input hello success.
+INFO     root:base_page.py:34 input 12345678 success.
+ERROR    root:base_page.py:36 input ‘test question’ failed.
+ERROR    root:base_page.py:25 未找到('css selector', "input[placeholder='添加标签']")元素

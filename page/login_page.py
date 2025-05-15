@@ -36,11 +36,7 @@ class LoginPage(BasePage):
         try:
             ele = self.find_ele(self.userinfo)
             driver = DriverUtils.get_driver()
-            # # 退出登录
-            # action = ActionChains(driver)
-            # action.move_to_element(ele).perform()
-            # # 寻找退出登录按钮
-            # self.find_ele(self.logout_btn).click()
+            # 清除token信息
             driver.execute_script('window.localStorage.clear()')
             # 刷新页面
             driver.get(LOGIN_URL)

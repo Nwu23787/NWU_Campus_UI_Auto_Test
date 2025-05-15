@@ -1,0 +1,144 @@
+{
+  "uid" : "3ebf8cb541b1aaa2",
+  "name" : "test_login_error[hello-123456-\\u5bc6\\u7801\\u957f\\u5ea6\\u4e0d\\u80fd\\u5c0f\\u4e8e7\\u4e2a\\u5b57\\u7b26]",
+  "fullName" : "script.test_login.TestLogin#test_login_error",
+  "historyId" : "0476daae2d354e998260433638216a97",
+  "time" : {
+    "start" : 1745488557081,
+    "stop" : 1745488558072,
+    "duration" : 991
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_login_error",
+    "time" : {
+      "start" : 1745488557081,
+      "stop" : 1745488557081,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "init_login",
+    "time" : {
+      "start" : 1745488548839,
+      "stop" : 1745488550491,
+      "duration" : 1652
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "22f33b02244a09ef",
+      "name" : "log",
+      "source" : "22f33b02244a09ef.txt",
+      "type" : "text/plain",
+      "size" : 120
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init_login_error::0",
+    "time" : {
+      "start" : 1745488558073,
+      "stop" : 1745488558087,
+      "duration" : 14
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "init_login::0",
+    "time" : {
+      "start" : 1745488560997,
+      "stop" : 1745488560998,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3KJCQPR"
+  }, {
+    "name" : "thread",
+    "value" : "36436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "account",
+    "value" : "'hello'"
+  }, {
+    "name" : "expectText",
+    "value" : "'密码长度不能小于7个字符'"
+  }, {
+    "name" : "password",
+    "value" : "'123456'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=1)" ]
+  },
+  "source" : "3ebf8cb541b1aaa2.json",
+  "parameterValues" : [ "'hello'", "'密码长度不能小于7个字符'", "'123456'" ]
+}

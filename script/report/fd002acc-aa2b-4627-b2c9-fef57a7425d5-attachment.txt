@@ -1,0 +1,2 @@
+INFO     root:base_page.py:34 input DuFly success.
+INFO     root:base_page.py:34 input 1234567 success.

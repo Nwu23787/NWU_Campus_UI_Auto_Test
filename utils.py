@@ -15,7 +15,7 @@ class DriverUtils:
     @classmethod
     def get_driver(cls):
         if cls.driver is None:
-            cls.driver = webdriver.Chrome()
+            cls.driver = webdriver.Chrome(executable_path=r"C:\Users\T\AppData\Local\Google\Chrome\Application\chromedriver.exe")
             cls.driver.maximize_window()
             cls.driver.implicitly_wait(20)
         return cls.driver

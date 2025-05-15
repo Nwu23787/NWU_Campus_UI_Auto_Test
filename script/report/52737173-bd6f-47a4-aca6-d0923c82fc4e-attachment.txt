@@ -1,0 +1,4 @@
+INFO     root:base_page.py:34 input test question success.
+INFO     root:base_page.py:34 input 999999 success.
+INFO     root:base_page.py:59 switch to 0 iframe success.
+INFO     root:base_page.py:34 input test content success.

@@ -1,0 +1,129 @@
+{
+  "uid" : "ea04437723c4a94b",
+  "name" : "test_add_topic_error[None-\\u6d4b\\u8bd5\\u901a\\u77e5-ceshiceshi-\\u6807\\u7b7e\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+  "fullName" : "script.test_add_topic.TestTopic#test_add_topic_error",
+  "historyId" : "eac9bf2848b47b61efd0849a64e517fe",
+  "time" : {
+    "start" : 1745488563122,
+    "stop" : 1745488563837,
+    "duration" : 715
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_login",
+    "time" : {
+      "start" : 1745488561004,
+      "stop" : 1745488562093,
+      "duration" : 1089
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "refresh_page",
+    "time" : {
+      "start" : 1745488563037,
+      "stop" : 1745488563122,
+      "duration" : 85
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "ce55b85bf344c0f0",
+      "name" : "log",
+      "source" : "ce55b85bf344c0f0.txt",
+      "type" : "text/plain",
+      "size" : 198
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init_login::0",
+    "time" : {
+      "start" : 1745488565457,
+      "stop" : 1745488565457,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_topic"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTopic"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3KJCQPR"
+  }, {
+    "name" : "thread",
+    "value" : "36436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_add_topic"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expectText",
+    "value" : "'标签不能为空'"
+  }, {
+    "name" : "tag",
+    "value" : "None"
+  }, {
+    "name" : "text",
+    "value" : "'ceshiceshi'"
+  }, {
+    "name" : "title",
+    "value" : "'测试通知'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ea04437723c4a94b.json",
+  "parameterValues" : [ "'标签不能为空'", "None", "'ceshiceshi'", "'测试通知'" ]
+}

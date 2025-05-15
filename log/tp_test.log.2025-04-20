@@ -1,0 +1,294 @@
+2025-04-20 22:02:36,441 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,446 ERROR [root] [base_page.py:input_text:36)] - input ‘hello’ failed.
+2025-04-20 22:02:36,531 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,531 ERROR [root] [base_page.py:input_text:36)] - input ‘12345678’ failed.
+2025-04-20 22:02:36,532 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,672 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.author')元素
+2025-04-20 22:02:36,706 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,707 ERROR [root] [base_page.py:input_text:36)] - input ‘DuFly’ failed.
+2025-04-20 22:02:36,707 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,709 ERROR [root] [base_page.py:input_text:36)] - input ‘1234567’ failed.
+2025-04-20 22:02:36,709 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,719 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.author')元素
+2025-04-20 22:02:36,755 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,755 ERROR [root] [base_page.py:input_text:36)] - input ‘12345678’ failed.
+2025-04-20 22:02:36,755 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,798 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,798 ERROR [root] [base_page.py:input_text:36)] - input ‘hello’ failed.
+2025-04-20 22:02:36,798 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,844 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,844 ERROR [root] [base_page.py:input_text:36)] - input ‘hello’ failed.
+2025-04-20 22:02:36,846 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,846 ERROR [root] [base_page.py:input_text:36)] - input ‘123456789’ failed.
+2025-04-20 22:02:36,847 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,889 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,889 ERROR [root] [base_page.py:input_text:36)] - input ‘hello’ failed.
+2025-04-20 22:02:36,889 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,891 ERROR [root] [base_page.py:input_text:36)] - input ‘1234567’ failed.
+2025-04-20 22:02:36,891 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,929 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,929 ERROR [root] [base_page.py:input_text:36)] - input ‘hello’ failed.
+2025-04-20 22:02:36,931 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,931 ERROR [root] [base_page.py:input_text:36)] - input ‘123456’ failed.
+2025-04-20 22:02:36,931 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:36,974 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:36,974 ERROR [root] [base_page.py:input_text:36)] - input ‘he’ failed.
+2025-04-20 22:02:36,975 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:36,975 ERROR [root] [base_page.py:input_text:36)] - input ‘12345678’ failed.
+2025-04-20 22:02:36,975 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:37,033 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:37,033 ERROR [root] [base_page.py:input_text:36)] - input ‘helloo’ failed.
+2025-04-20 22:02:37,034 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:37,034 ERROR [root] [base_page.py:input_text:36)] - input ‘12345678’ failed.
+2025-04-20 22:02:37,036 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:02:37,120 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='账号']")元素
+2025-04-20 22:02:37,120 ERROR [root] [base_page.py:input_text:36)] - input ‘hell’ failed.
+2025-04-20 22:02:37,121 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', "input[placeholder='密码']")元素
+2025-04-20 22:02:37,121 ERROR [root] [base_page.py:input_text:36)] - input ‘12345678’ failed.
+2025-04-20 22:02:37,122 ERROR [root] [base_page.py:find_ele:25)] - 未找到('css selector', '.login-container button')元素
+2025-04-20 22:04:31,743 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:31,815 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:35,246 INFO [root] [base_page.py:input_text:34)] - input DuFly success.
+2025-04-20 22:04:35,356 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:04:36,270 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:37,339 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:38,342 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:38,416 INFO [root] [base_page.py:input_text:34)] - input 123456789 success.
+2025-04-20 22:04:39,367 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:39,434 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:04:40,380 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:40,442 INFO [root] [base_page.py:input_text:34)] - input 123456 success.
+2025-04-20 22:04:41,452 INFO [root] [base_page.py:input_text:34)] - input he success.
+2025-04-20 22:04:41,525 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:42,395 INFO [root] [base_page.py:input_text:34)] - input helloo success.
+2025-04-20 22:04:42,470 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:43,422 INFO [root] [base_page.py:input_text:34)] - input hell success.
+2025-04-20 22:04:43,494 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:44,551 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:44,620 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:48,603 INFO [root] [base_page.py:input_text:34)] - input ceshi success.
+2025-04-20 22:04:48,614 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:48,711 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:04:49,457 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:04:49,466 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:49,540 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:04:50,597 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:50,702 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:04:51,526 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:04:52,113 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:04:52,184 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:04:54,094 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:04:54,384 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:04:54,395 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:54,483 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:04:55,218 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:04:55,484 INFO [root] [base_page.py:input_text:34)] - input 1 success.
+2025-04-20 22:04:55,495 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:55,566 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:04:56,484 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:04:56,496 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:56,566 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:04:57,280 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:04:57,345 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:04:57,352 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:57,427 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:04:58,029 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:04:58,275 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:04:59,203 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:04:59,430 INFO [root] [base_page.py:input_text:34)] - input 999999 success.
+2025-04-20 22:04:59,437 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:04:59,531 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:05:00,301 INFO [root] [base_page.py:input_text:34)] - input 西北大学 success.
+2025-04-20 22:05:01,749 INFO [root] [base_page.py:input_text:34)] - input #西北大学@ success.
+2025-04-20 22:05:02,860 INFO [root] [base_page.py:input_text:34)] - input CESHI success.
+2025-04-20 22:05:03,885 INFO [root] [base_page.py:input_text:34)] - input  success.
+2025-04-20 22:05:04,889 INFO [root] [base_page.py:input_text:34)] - input noresult success.
+2025-04-20 22:11:35,389 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:35,459 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:36,399 INFO [root] [base_page.py:input_text:34)] - input DuFly success.
+2025-04-20 22:11:36,456 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:11:37,481 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:38,701 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:39,788 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:39,864 INFO [root] [base_page.py:input_text:34)] - input 123456789 success.
+2025-04-20 22:11:40,820 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:40,875 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:11:41,809 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:41,871 INFO [root] [base_page.py:input_text:34)] - input 123456 success.
+2025-04-20 22:11:42,842 INFO [root] [base_page.py:input_text:34)] - input he success.
+2025-04-20 22:11:42,917 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:43,722 INFO [root] [base_page.py:input_text:34)] - input helloo success.
+2025-04-20 22:11:43,792 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:44,742 INFO [root] [base_page.py:input_text:34)] - input hell success.
+2025-04-20 22:11:44,820 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:45,923 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:45,999 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:47,366 INFO [root] [base_page.py:input_text:34)] - input ceshi success.
+2025-04-20 22:11:47,374 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:47,448 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:11:47,981 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:11:47,990 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:48,070 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:11:48,738 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:48,816 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:11:49,559 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:11:50,021 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:11:50,084 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:11:51,106 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:11:51,334 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:11:51,341 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:51,418 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:11:52,058 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:11:52,339 INFO [root] [base_page.py:input_text:34)] - input 1 success.
+2025-04-20 22:11:52,348 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:52,421 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:11:53,535 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:11:53,543 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:53,642 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:11:54,415 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:11:54,474 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:11:54,483 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:54,551 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:11:55,105 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:11:55,387 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:11:56,216 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:11:56,470 INFO [root] [base_page.py:input_text:34)] - input 999999 success.
+2025-04-20 22:11:56,479 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:11:56,553 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:11:57,482 INFO [root] [base_page.py:input_text:34)] - input 西北大学 success.
+2025-04-20 22:11:58,794 INFO [root] [base_page.py:input_text:34)] - input #西北大学@ success.
+2025-04-20 22:11:59,533 INFO [root] [base_page.py:input_text:34)] - input CESHI success.
+2025-04-20 22:12:00,535 INFO [root] [base_page.py:input_text:34)] - input  success.
+2025-04-20 22:12:01,574 INFO [root] [base_page.py:input_text:34)] - input noresult success.
+2025-04-20 22:14:40,267 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:40,333 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:41,338 INFO [root] [base_page.py:input_text:34)] - input DuFly success.
+2025-04-20 22:14:41,417 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:14:43,754 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:44,828 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:45,855 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:45,926 INFO [root] [base_page.py:input_text:34)] - input 123456789 success.
+2025-04-20 22:14:46,902 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:46,969 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:14:48,503 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:48,561 INFO [root] [base_page.py:input_text:34)] - input 123456 success.
+2025-04-20 22:14:49,990 INFO [root] [base_page.py:input_text:34)] - input he success.
+2025-04-20 22:14:50,057 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:50,881 INFO [root] [base_page.py:input_text:34)] - input helloo success.
+2025-04-20 22:14:50,943 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:52,963 INFO [root] [base_page.py:input_text:34)] - input hell success.
+2025-04-20 22:14:53,030 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:54,134 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:54,200 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:55,583 INFO [root] [base_page.py:input_text:34)] - input ceshi success.
+2025-04-20 22:14:55,594 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:14:55,664 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:14:56,175 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:14:56,180 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:14:56,237 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:14:56,890 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:14:56,961 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:14:57,684 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:14:58,160 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:14:58,219 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:14:59,203 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:14:59,486 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:14:59,495 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:14:59,562 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:15:00,263 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:15:00,511 INFO [root] [base_page.py:input_text:34)] - input 1 success.
+2025-04-20 22:15:00,518 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:15:00,597 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:15:01,643 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:15:01,656 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:15:01,816 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:15:03,817 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:15:03,882 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:15:03,891 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:15:04,005 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:15:04,610 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:15:04,841 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:15:05,685 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:15:05,931 INFO [root] [base_page.py:input_text:34)] - input 999999 success.
+2025-04-20 22:15:05,941 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:15:06,022 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:15:06,929 INFO [root] [base_page.py:input_text:34)] - input 西北大学 success.
+2025-04-20 22:15:08,052 INFO [root] [base_page.py:input_text:34)] - input #西北大学@ success.
+2025-04-20 22:15:09,026 INFO [root] [base_page.py:input_text:34)] - input CESHI success.
+2025-04-20 22:15:10,093 INFO [root] [base_page.py:input_text:34)] - input  success.
+2025-04-20 22:15:11,117 INFO [root] [base_page.py:input_text:34)] - input noresult success.
+2025-04-20 22:32:05,661 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:05,737 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:06,609 INFO [root] [base_page.py:input_text:34)] - input DuFly success.
+2025-04-20 22:32:06,670 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:32:07,946 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:08,973 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:09,998 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:10,085 INFO [root] [base_page.py:input_text:34)] - input 123456789 success.
+2025-04-20 22:32:11,002 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:11,066 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:32:12,036 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:12,099 INFO [root] [base_page.py:input_text:34)] - input 123456 success.
+2025-04-20 22:32:13,117 INFO [root] [base_page.py:input_text:34)] - input he success.
+2025-04-20 22:32:13,183 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:13,977 INFO [root] [base_page.py:input_text:34)] - input helloo success.
+2025-04-20 22:32:14,059 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:16,039 INFO [root] [base_page.py:input_text:34)] - input hell success.
+2025-04-20 22:32:16,179 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:16,795 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:16,879 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:18,171 INFO [root] [base_page.py:input_text:34)] - input ceshi success.
+2025-04-20 22:32:18,181 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:18,251 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:32:18,783 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:32:18,793 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:18,862 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:32:19,487 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:19,556 INFO [root] [base_page.py:input_text:34)] - input ceshiceshi success.
+2025-04-20 22:32:20,383 INFO [root] [base_page.py:input_text:34)] - input 测试通知 success.
+2025-04-20 22:32:20,854 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:32:20,927 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:32:21,886 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:32:22,146 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:32:22,153 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:22,227 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:32:22,927 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:32:23,181 INFO [root] [base_page.py:input_text:34)] - input 1 success.
+2025-04-20 22:32:23,187 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:23,268 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:32:24,181 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:32:24,187 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:24,259 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:32:24,979 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:32:25,050 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:32:25,061 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:25,150 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:32:25,673 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:32:25,918 INFO [root] [base_page.py:input_text:34)] - input 0 success.
+2025-04-20 22:32:27,444 INFO [root] [base_page.py:input_text:34)] - input test question success.
+2025-04-20 22:32:27,633 INFO [root] [base_page.py:input_text:34)] - input 999999 success.
+2025-04-20 22:32:27,640 INFO [root] [base_page.py:switch_frame:59)] - switch to 0 iframe success.
+2025-04-20 22:32:27,714 INFO [root] [base_page.py:input_text:34)] - input test content success.
+2025-04-20 22:32:28,520 INFO [root] [base_page.py:input_text:34)] - input 西北大学 success.
+2025-04-20 22:32:29,606 INFO [root] [base_page.py:input_text:34)] - input #西北大学@ success.
+2025-04-20 22:32:31,958 INFO [root] [base_page.py:input_text:34)] - input CESHI success.
+2025-04-20 22:32:32,915 INFO [root] [base_page.py:input_text:34)] - input  success.
+2025-04-20 22:32:33,922 INFO [root] [base_page.py:input_text:34)] - input noresult success.
+2025-04-20 22:37:44,183 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:37:44,267 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:37:45,158 INFO [root] [base_page.py:input_text:34)] - input DuFly success.
+2025-04-20 22:37:45,214 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:37:46,373 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:37:47,332 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:37:48,305 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:37:48,360 INFO [root] [base_page.py:input_text:34)] - input 123456789 success.
+2025-04-20 22:37:49,370 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:37:49,437 INFO [root] [base_page.py:input_text:34)] - input 1234567 success.
+2025-04-20 22:37:50,335 INFO [root] [base_page.py:input_text:34)] - input hello success.
+2025-04-20 22:37:50,388 INFO [root] [base_page.py:input_text:34)] - input 123456 success.
+2025-04-20 22:37:51,395 INFO [root] [base_page.py:input_text:34)] - input he success.
+2025-04-20 22:37:51,450 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:37:52,301 INFO [root] [base_page.py:input_text:34)] - input helloo success.
+2025-04-20 22:37:52,359 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.
+2025-04-20 22:37:53,375 INFO [root] [base_page.py:input_text:34)] - input hell success.
+2025-04-20 22:37:53,438 INFO [root] [base_page.py:input_text:34)] - input 12345678 success.

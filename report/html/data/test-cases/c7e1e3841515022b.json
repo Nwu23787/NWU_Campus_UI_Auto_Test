@@ -1,0 +1,108 @@
+{
+  "uid" : "c7e1e3841515022b",
+  "name" : "test_search_success[#\\u897f\\u5317\\u5927\\u5b66@-\\u897f\\u5317\\u5927\\u5b66]",
+  "fullName" : "script.test_search.TestSearch#test_search_success",
+  "historyId" : "45a11dab0d867502bfe26d8c933f26af",
+  "time" : {
+    "start" : 1745488573412,
+    "stop" : 1745488574245,
+    "duration" : 833
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_search",
+    "time" : {
+      "start" : 1745488573245,
+      "stop" : 1745488573411,
+      "duration" : 166
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5bb090af07d4dbf4",
+      "name" : "log",
+      "source" : "5bb090af07d4dbf4.txt",
+      "type" : "text/plain",
+      "size" : 68
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init_search::0",
+    "time" : {
+      "start" : 1745488574246,
+      "stop" : 1745488574246,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_search"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSearch"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3KJCQPR"
+  }, {
+    "name" : "thread",
+    "value" : "36436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_search"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "keywords",
+    "value" : "'#西北大学@'"
+  }, {
+    "name" : "result_keywords",
+    "value" : "'西北大学'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c7e1e3841515022b.json",
+  "parameterValues" : [ "'#西北大学@'", "'西北大学'" ]
+}

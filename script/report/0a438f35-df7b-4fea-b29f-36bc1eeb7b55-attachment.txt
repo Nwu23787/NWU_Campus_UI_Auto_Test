@@ -1,0 +1,2 @@
+INFO     root:base_page.py:34 input 西北大学 success.
+ERROR    root:utils.py:47 未找到文本‘('西北大学', "//*[contains(text(),'西北大学')]")’对应的元素

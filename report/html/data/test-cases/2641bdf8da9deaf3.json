@@ -1,0 +1,129 @@
+{
+  "uid" : "2641bdf8da9deaf3",
+  "name" : "test_add_topic_error[\\u901a\\u77e5\\u516c\\u544a-None-ceshiceshi-\\u6807\\u9898\\u4e0d\\u80fd\\u4e3a\\u7a7a]",
+  "fullName" : "script.test_add_topic.TestTopic#test_add_topic_error",
+  "historyId" : "bac44cecdcf88fc0b8787bb883eb1617",
+  "time" : {
+    "start" : 1745488563925,
+    "stop" : 1745488564545,
+    "duration" : 620
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "refresh_page",
+    "time" : {
+      "start" : 1745488563845,
+      "stop" : 1745488563925,
+      "duration" : 80
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "init_login",
+    "time" : {
+      "start" : 1745488561004,
+      "stop" : 1745488562093,
+      "duration" : 1089
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "182e9ecba2ca2284",
+      "name" : "log",
+      "source" : "182e9ecba2ca2284.txt",
+      "type" : "text/plain",
+      "size" : 131
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init_login::0",
+    "time" : {
+      "start" : 1745488565457,
+      "stop" : 1745488565457,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_add_topic"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTopic"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3KJCQPR"
+  }, {
+    "name" : "thread",
+    "value" : "36436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_add_topic"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expectText",
+    "value" : "'标题不能为空'"
+  }, {
+    "name" : "tag",
+    "value" : "'通知公告'"
+  }, {
+    "name" : "text",
+    "value" : "'ceshiceshi'"
+  }, {
+    "name" : "title",
+    "value" : "None"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2641bdf8da9deaf3.json",
+  "parameterValues" : [ "'标题不能为空'", "'通知公告'", "'ceshiceshi'", "None" ]
+}

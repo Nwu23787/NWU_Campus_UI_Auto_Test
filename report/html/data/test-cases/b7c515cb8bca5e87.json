@@ -1,0 +1,132 @@
+{
+  "uid" : "b7c515cb8bca5e87",
+  "name" : "test_add_question_success[test question-None-0-test content-\\u8bf7\\u9009\\u62e9\\u6807\\u7b7e]",
+  "fullName" : "script.test_post_question.TestAddQuestion#test_add_question_success",
+  "historyId" : "a373734fb34c3e711ea68ff7ed48fec2",
+  "time" : {
+    "start" : 1745488569585,
+    "stop" : 1745488570194,
+    "duration" : 609
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "init_post_question",
+    "time" : {
+      "start" : 1745488565462,
+      "stop" : 1745488566459,
+      "duration" : 997
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  }, {
+    "name" : "refresh_page",
+    "time" : {
+      "start" : 1745488569507,
+      "stop" : 1745488569585,
+      "duration" : 78
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e90039686614e73e",
+      "name" : "log",
+      "source" : "e90039686614e73e.txt",
+      "type" : "text/plain",
+      "size" : 257
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "init_post_question::0",
+    "time" : {
+      "start" : 1745488572293,
+      "stop" : 1745488572294,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "script"
+  }, {
+    "name" : "suite",
+    "value" : "test_post_question"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddQuestion"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-3KJCQPR"
+  }, {
+    "name" : "thread",
+    "value" : "36436-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "script.test_post_question"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "expectText",
+    "value" : "'请选择标签'"
+  }, {
+    "name" : "score",
+    "value" : "0"
+  }, {
+    "name" : "tag",
+    "value" : "None"
+  }, {
+    "name" : "text",
+    "value" : "'test content'"
+  }, {
+    "name" : "title",
+    "value" : "'test question'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b7c515cb8bca5e87.json",
+  "parameterValues" : [ "'请选择标签'", "0", "None", "'test content'", "'test question'" ]
+}
